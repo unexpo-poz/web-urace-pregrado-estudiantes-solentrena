@@ -1,0 +1,2 @@
+C:[20/05/2014 10:32:35.16][172.16.4.241][347] SELECT MAX(id_solicitud)+1 FROM solicitudes WHERE lapso='2013-2'  [1][0] OK
+C:[20/05/2014 10:32:35.16][172.16.4.241][380] INSERT INTO solicitudes (id_solicitud,exp_e,programa,documento,lapso,fecha_solicitud,estatus,id_codigo) VALUES ('11605','09-20807840',0,'22', '2013-2','05-20-2014','1','1400598156-22')  [0][1] OK

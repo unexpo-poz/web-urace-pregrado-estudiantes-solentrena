@@ -1,0 +1,17 @@
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+*:[10/07/2013 12:03:09.45][190.78.122.32][66] SELECT password FROM usuarios WHERE userid='10-22574011' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+*:[10/07/2013 12:03:09.45][190.78.122.32][N_E] SELECT tipo_usuario FROM usuarios WHERE password='a110b9ea1a0389dba075491c5e491b2b' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+*:[06/08/2013 10:29:07.72][186.88.100.25][66] SELECT password FROM usuarios WHERE userid='06-18593815' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+*:[06/08/2013 10:29:07.72][186.88.100.25][N_E] SELECT tipo_usuario FROM usuarios WHERE password='303e5a77002b8f8acf84ef064760f23e' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+C:[06/02/2014 08:51:40.25][190.74.177.25][67] SELECT password FROM usuarios WHERE userid='09-20804575' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[06/02/2014 08:51:40.25][190.74.177.25][N_E] SELECT tipo_usuario FROM usuarios WHERE password='d9d806427177a8c12d50b39a1272075c' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09024 GCI SEA Session ended abnormally}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+*:[13/02/2015 11:29:13.32][190.37.197.234][68] SELECT password FROM usuarios WHERE userid='08-20882746' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+*:[13/02/2015 11:29:13.32][190.37.197.234][N_E] SELECT tipo_usuario FROM usuarios WHERE password='556430e1e96ed2507055a1a32f9cbe34' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+C:[08/05/2015 16:39:55.79][172.16.4.241][615] AND b.exp_e=c.exp_e AND a.pensum=c.pensum AND a.c_uni_ca=c.c_uni_ca  [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]00917 PRS ISC Invalid SQL statement}
